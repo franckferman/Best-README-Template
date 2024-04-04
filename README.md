@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/franckferman/README-Template">
-    <img src="https://raw.githubusercontent.com/franckferman/README-Template/master/docs/github/graphical_resources/logo.png" alt="Logo" width="auto" height="auto">
+    <img src="https://raw.githubusercontent.com/franckferman/README-Template/stable/docs/github/graphical_resources/logo.png" alt="Logo" width="auto" height="auto">
   </a>
 
   <!-- TITLE & TAGLINE -->
@@ -80,8 +80,8 @@ Creating a comprehensive and engaging README is crucial for open-source projects
 
 <div align="center">
   
-<a href="https://github.com/franckferman/README-Template/blob/master/docs/github/graphical_resources/screenshot.png">
-<img src="https://github.com/franckferman/README-Template/blob/master/docs/github/graphical_resources/screenshot.png" alt="Logo" width="auto" height="auto">
+<a href="https://github.com/franckferman/README-Template/blob/stable/docs/github/graphical_resources/screenshot.png">
+<img src="https://github.com/franckferman/README-Template/blob/stable/docs/github/graphical_resources/screenshot.png" alt="Logo" width="auto" height="auto">
 </a>
 
 </div>
