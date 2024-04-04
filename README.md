@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/franckferman/README-Template">
-    <img src="https://raw.githubusercontent.com/franckferman/README-Template/stable/docs/github/graphical_resources/logo.png" alt="Logo" width="auto" height="auto">
+    <img src="https://raw.githubusercontent.com/franckferman/README-Template/dev/docs/github/graphical_resources/logo.png" alt="Logo" width="auto" height="auto">
   </a>
 
   <!-- TITLE & TAGLINE -->
@@ -39,7 +39,7 @@
 
 <!-- LINKS & DEMO -->
 <p align="center">
-    <a href="https://github.com/franckferman/README-Template/blob/stable/README.md" class="button-style"><strong>📘 Explore the full documentation</strong></a>
+    <a href="https://github.com/franckferman/README-Template/blob/dev/README.md" class="button-style"><strong>📘 Explore the full documentation</strong></a>
     ·
     <a href="https://asciinema.org/a/#" class="button-style">🎥 View Demo</a>
     ·
@@ -80,8 +80,8 @@ Creating a comprehensive and engaging README is crucial for open-source projects
 
 <div align="center">
   
-<a href="https://github.com/franckferman/README-Template/blob/stable/docs/github/graphical_resources/screenshot.png">
-<img src="https://github.com/franckferman/README-Template/blob/stable/docs/github/graphical_resources/screenshot.png" alt="Logo" width="auto" height="auto">
+<a href="https://github.com/franckferman/README-Template/blob/dev/docs/github/graphical_resources/screenshot.png">
+<img src="https://github.com/franckferman/README-Template/blob/dev/docs/github/graphical_resources/screenshot.png" alt="Logo" width="auto" height="auto">
 </a>
 
 </div>
@@ -147,7 +147,7 @@ pip install [ProjectName]
 
 4. **Docker Integration**:
 
-For setting up with Docker, refer to our Docker-specific guide: [ProjectName Docker Setup](https://github.com/franckferman/[ProjectName]/blob/stable/docker/README.md).
+For setting up with Docker, refer to our Docker-specific guide: [ProjectName Docker Setup](https://github.com/franckferman/[ProjectName]/blob/dev/docker/README.md).
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
 
@@ -253,7 +253,7 @@ Your support is greatly appreciated. We're grateful for every star! Your backing
 <!-- LICENSE -->
 ## 📜 License
 
-This project is licensed under the `MIT License`. For more details, please refer to the `LICENSE` file in the repository: [Read the license on GitHub](https://github.com/franckferman/README-Template/blob/stable/LICENSE)
+This project is licensed under the `MIT License`. For more details, please refer to the `LICENSE` file in the repository: [Read the license on GitHub](https://github.com/franckferman/README-Template/blob/dev/LICENSE)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
 
@@ -279,7 +279,7 @@ This project is licensed under the `MIT License`. For more details, please refer
 [issues-shield]: https://img.shields.io/github/issues/franckferman/README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/franckferman/README-Template/issues
 [license-shield]: https://img.shields.io/github/license/franckferman/README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/franckferman/README-Template/blob/stable/LICENSE
+[license-url]: https://github.com/franckferman/README-Template/blob/dev/LICENSE
 [protonmail-shield]: https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=blueviolet
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=blue
